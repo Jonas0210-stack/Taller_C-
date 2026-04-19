@@ -1,0 +1,10 @@
+C:\Users\usuario\Documents\Taller Seccion A\TaleerIUJO01\TaleerIUJO01\bin\Debug\TaleerIUJO01.exe
+C:\Users\usuario\Documents\Taller Seccion A\TaleerIUJO01\TaleerIUJO01\bin\Debug\TaleerIUJO01.pdb
+C:\Users\usuario\Documents\Taller Seccion A\TaleerIUJO01\TaleerIUJO01\obj\Debug\TaleerIUJO01.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Taller Seccion A\TaleerIUJO01\TaleerIUJO01\obj\Debug\TaleerIUJO01.exe
+C:\Users\usuario\Documents\Taller Seccion A\TaleerIUJO01\TaleerIUJO01\obj\Debug\TaleerIUJO01.pdb
+C:\Users\andrea\Documents\TALLER CSHARP\Taller_C-\TaleerIUJO01\TaleerIUJO01\obj\Debug\TaleerIUJO01.csprojResolveAssemblyReference.cache
+C:\Users\andrea\Documents\TALLER CSHARP\Taller_C-\TaleerIUJO01\TaleerIUJO01\obj\Debug\TaleerIUJO01.exe
+C:\Users\andrea\Documents\TALLER CSHARP\Taller_C-\TaleerIUJO01\TaleerIUJO01\obj\Debug\TaleerIUJO01.pdb
+C:\Users\andrea\Documents\TALLER CSHARP\Taller_C-\TaleerIUJO01\TaleerIUJO01\bin\Debug\TaleerIUJO01.exe
+C:\Users\andrea\Documents\TALLER CSHARP\Taller_C-\TaleerIUJO01\TaleerIUJO01\bin\Debug\TaleerIUJO01.pdb
